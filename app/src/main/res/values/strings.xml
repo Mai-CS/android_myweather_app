@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Weather</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="search_city">Search for a city</string>
+    <string name="get_weather_forecast">Get Weather Forecast</string>
+    <string name="add_city">Add City</string>
+    <string name="add_city_description">Click on any city on the map to add or search by typing its name</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_location">Add Location</string>
+    <string name="no_locations_found">No Locations Found</string>
+    <string name="offline_error">You are offline, please go online</string>
+    <string name="error">Error Occurred</string>
+    <string name="celsius">°C</string>
+</resources>
